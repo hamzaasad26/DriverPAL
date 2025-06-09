@@ -1,3 +1,8 @@
+# Workflow
+![workflow : ](workflow.png)
+
+
+
 # demo vid : https://drive.google.com/file/d/17R3F5I06axdIu-EUWcGjeIOiNv7rxKTd/view?usp=sharing
 # DriverPAL: AI-Powered Driver Monitoring System
 
